@@ -3,6 +3,7 @@ JavaScript basic – Exercises and Solutions
 ### Simple Javascript Exercises
 
 **Exercise #1**
+
 Suppose you need to go to school every day except Saturday and Sunday. Write a
 code, where you will input today’s date number and the web page will show you
 whether you need to go to school or not.
